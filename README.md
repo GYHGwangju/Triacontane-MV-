@@ -1,3 +1,3 @@
-triacontane이 만든 RPG Maker MV 전용 플러그인들을 **한글 번역**한 플러그인을 모아둔 저장소입니다.
+외국 분들이 만든 RPG Maker MV 전용 플러그인들을 **한글 번역**한 플러그인을 모아둔 저장소입니다.
 
-원본: https://github.com/triacontane/RPGMakerMV/tree/master
+사용 규칙에 의거 **재배포가 가능한 플러그인만** 올립니다.
